@@ -1,5 +1,6 @@
 # Git-domaci
 <p align="center">
+ GIT
 </p>
 
 Git je  sistem za kontrolu verzija koji prati promene u bilo kom skupu datoteka, i obično se koristi za koordinaciju rada između programera koji zajedno razvijaju izvorni kod nekog softvera. Njegovi ciljevi uključuju brzinu, integritet podataka i podršku za distribuirane, nelinearne tokove posla (hiljade paralelnih grana koje rade na različitim sistemima).
@@ -44,8 +45,7 @@ git merge projekat_1 projekat_2
 git pull origin next
 git push origin master
 ```
-<p align="center">
-  <img src="./img/gitFunction.jpg">
+
 </p>
 
 # SSH
@@ -53,6 +53,5 @@ Sigurnosni šel protokol (engl. _Secure Shell Protocol - SSH_) je kriptografski 
 ```
 localhost:~$ ssh -p <broj porta (ako ostavimo praznim biće port 22)> <korisničko ime>@<adresa servera>
 ```
-<p align="center">
-  <img src="./img/SSH.png">
+
 </p>
