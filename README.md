@@ -1,5 +1,5 @@
 # Git-domaci
-<p align="center">
+<p align="left">
  GIT
 </p>
 
